@@ -85,29 +85,3 @@ Si deseas compilar y ejecutar el proyecto manualmente desde PowerShell o CMD, ut
    ```bash
    java -cp bin com.mycompany.poofinal.Aplicacion
    ```
-
----
-
-## 📤 Instrucciones para Subirlo a GitHub
-
-Para subir este proyecto a tu cuenta de GitHub de manera limpia y sin archivos temporales innecesarios (gracias al `.gitignore` configurado):
-
-1. **Inicializar el repositorio Git local:**
-   ```bash
-   git init
-   ```
-2. **Agregar los archivos al área de preparación:**
-   ```bash
-   git add .
-   ```
-3. **Crear el primer commit:**
-   ```bash
-   git commit -m "Initial commit: Estructura del proyecto Tambo y archivos de configuración para VS Code"
-   ```
-4. **Vincular tu repositorio remoto de GitHub y subirlo:**
-   *(Reemplaza la URL con la de tu repositorio de GitHub)*
-   ```bash
-   git branch -M main
-   git remote add origin https://github.com/TU_USUARIO/TU_REPOSITORIO.git
-   git push -u origin main
-   ```
