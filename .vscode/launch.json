@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Ejecutar Aplicación (Tambo)",
+            "request": "launch",
+            "mainClass": "com.mycompany.poofinal.Aplicacion",
+            "console": "integratedTerminal"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+# Compilados de Java
+*.class
+bin/
+out/
+target/
+
+# Configuraciones locales de IDEs
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+nbproject/
+build/
+dist/
+
+# Archivos temporales de sistema
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Archivos de VS Code locales de usuario (excepto lanzamiento)
+.vscode/ipch/
+.vscode/.cm/
+.vscode/c_cpp_properties.json
+.vscode/tasks.json
