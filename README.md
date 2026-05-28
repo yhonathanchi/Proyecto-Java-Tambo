@@ -1,7 +1,6 @@
 # 🏪 Sistema de Gestión - Tambo (Java Console App)
 
-Este es un sistema de consola en Java diseñado para gestionar empleados, sedes, ventas y bonificaciones para la cadena de tiendas **Tambo**.
-
+Este es un proyecto académico de consola desarrollado en Java puro, creado para aplicar mis conocimientos en Programación Orientada a Objetos (POO) y resolución de problemas lógicos. El sistema simula la gestión de la cadena de tiendas Tambo, permitiendo administrar empleados, sedes, ventas mensuales y automatizando el cálculo de bonificaciones.
 ---
 
 ## 🚀 Características del Sistema
